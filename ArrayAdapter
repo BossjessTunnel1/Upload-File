@@ -1,5 +1,5 @@
 {
-  "": [
+  "flavours": [
    {
      "id": 1,
      "alphabet": "A",
@@ -7,4 +7,13 @@
      "version": 1,
      "support":false
     },
-{
+    {
+     "id": 2,
+     "alphabet": "B",
+     "name": "alpha(android)",
+     "version": 1,
+     "support":false
+    }
+  ]
+}
+
