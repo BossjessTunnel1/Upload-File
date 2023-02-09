@@ -1,1 +1,13 @@
-{"versionCode": "12.0", "url": "https://github.com/BossjessTunnel1/Upload-File/raw/main/app.apk"", "Message": "*NEW UPDATE AVAILABLE* \n\n 🆕 What's new? \n\n Fixed Bugs !!! \n Support All Version !!! \n New UI !!! \n VivaMax Available !!! \n\n New Version: 12.0 \n\n * || By: BossjessTunnel 💜 || *" }
+{
+    "app_name": "apk更新demo",
+    "download_url": "http://www.xxx/apk-v2.3.0.apk",
+    "file_md5": "9d4522b59a92742124110a7abf440267",
+    "file_size": "31227937",
+    "is_forced": "0",
+    "msg": "",
+    "package": "com.lzj.appupdate",
+    "remark": "1、全新首页，新视觉 新体验\n2、修复若干bug",
+    "status": 0,
+    "version_id": "102",
+    "version_name": "v2.0.0"
+}
