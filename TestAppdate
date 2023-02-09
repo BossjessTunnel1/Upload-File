@@ -1,6 +1,6 @@
 {
     "app_name": "apk更新demo",
-    "download_url": "http://www.xxx/apk-v2.3.0.apk",
+    "download_url": "https://github.com/BossjessTunnel1/Upload-File/raw/main/TechFlix_v5.0.0.apk",
     "file_md5": "9d4522b59a92742124110a7abf440267",
     "file_size": "31227937",
     "is_forced": "0",
