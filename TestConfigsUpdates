@@ -1,0 +1,19 @@
+{"categories":[{"name":"Movies","TechFlix":[{ 
+      "id":["https://www.2embed.to/embed/tmdb/movie?id="],
+       "title":"Server 01",
+       "type":""
+       },
+       {
+      "id":["https://vidsrc.me/embed/"],
+       "title":"Server 02",
+       "type":""
+       },
+       {
+       "id":["https://xtreamhub.com/video/"],
+       "title":"Server 03",
+       "type":""
+       }
+      ] 
+    }
+  ]
+ }
