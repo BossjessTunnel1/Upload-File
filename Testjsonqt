@@ -1,20 +1,20 @@
 {"categories":[{"name":"Movies","TechFlix":[{ 
       "id":["https://www.2embed.to/embed/tmdb/movie?id="],
-       "title":"Test1 Server 01",
+       "title":"English & More - Server 01",
        "type":"",
-       "host":"2embed",
-       "port":"444"
+       "host":"2embed.to",
+       "port":"80"
        },
        {
       "id":["https://vidsrc.me/embed/"],
-       "title":"Server 02",
+       "title":"English & More - Server 02",
        "type":"",
        "host":"vidsrc.me",
        "port":"80"
        },
        {
        "id":["https://xtreamhub.com/video/"],
-       "title":"Server 03",
+       "title":"Tagalog & More - Server 03",
        "type":"",
        "host":"xtreamhub.com",
        "port":"80"
