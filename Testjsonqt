@@ -1,8 +1,8 @@
 {"categories":[{"name":"Movies","TechFlix":[{ 
       "id":["https://www.2embed.to/embed/tmdb/movie?id="],
-       "title":"Test Server 01",
+       "title":"Test1 Server 01",
        "type":"",
-       "host":"2embed.to",
+       "host":"2embed",
        "port":"444"
        },
        {
