@@ -1,20 +1,20 @@
 {"categories":[{"name":"Movies","TechFlix":[{ 
       "id":["https://www.2embed.to/embed/tmdb/movie?id="],
-       "title":"Movies - English & More - Server 01",
+       "title":"Server 01 - (Recommended)",
        "type":"",
        "host":"2embed.to",
        "port":"80"
        },
        {
       "id":["https://vidsrc.me/embed/"],
-       "title":"Movies - English & More - Server 02",
+       "title":"Server 02 - (Recommended)",
        "type":"",
        "host":"vidsrc.me",
        "port":"80"
        },
        {
        "id":["https://xtreamhub.com/video/"],
-       "title":"Movies - Tagalog & More - Server 03",
+       "title":"Server 03 - (Pinoy Movie)",
        "type":"",
        "host":"xtreamhub.com",
        "port":"80"
