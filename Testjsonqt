@@ -3,7 +3,7 @@
        "title":"Server 01",
        "type":"",
        "host":"2embed.to",
-       "port":"80"
+       "port":"443"
        },
        {
       "id":["https://vidsrc.me/embed/"],
