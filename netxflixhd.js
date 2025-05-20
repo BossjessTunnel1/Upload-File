@@ -37,7 +37,7 @@ function redirectlabel(a) {
 
 function finddatepost(a) {
     post = a.feed.entry[0];
-    var e = post.published.$t.substring(0, 19) + post.published.$t.substring(23, 29),
+    var e = post.published.$t.substring(0, 19) + post.published.$t.substring(20, 29),
         s = encodeURIComponent(e);
     if ("page" == type) var r = "/search?updated-max=" + s + "&max-results=" + postperpage + "#PageNo=" + nopage;
     else var r = "/search/label/" + lblname1 + "?updated-max=" + s + "&max-results=" + postperpage + "#PageNo=" + nopage;
